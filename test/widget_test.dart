@@ -94,6 +94,3 @@ void main() {
 // void fungsilain() {
 //   print('ini fungsi lain');
 // }
-
-//test123jjj
-// ini perubahan pada main
