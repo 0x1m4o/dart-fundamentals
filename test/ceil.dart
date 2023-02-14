@@ -40,8 +40,8 @@ void main() {
 
   /// String Interpolation
   // You can insert the variable into string
-  var nomor = '1';
-  var kata = 'Dodi';
-  var kalimat = '${int.parse(nomor) + 1}. $kata say you\'re beautiful';
-  print(kalimat);
+  // var nomor = '1';
+  // var kata = 'Dodi';
+  // var kalimat = '${int.parse(nomor) + 1}. $kata say you\'re beautiful';
+  // print(kalimat);
 }
